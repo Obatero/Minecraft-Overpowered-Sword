@@ -2,6 +2,7 @@
 "homepage": "example.com",
   "promos":
   {
-    "1.15.2-recommended": "0.1.0"
+    "1.15.2-recommended": "0.1.0",
+    "1.15.2-new":"0.1.1"
   }
 }
